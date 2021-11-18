@@ -37,7 +37,7 @@ Du får använda valfri editor för att koda men rekommenderar Visual Studio Cod
 ## Fråga 4 - If-satser
 Läs in ett namn på bilmärke med <i>prompt()</i> och lagra det i en variabel som heter <b>brand</b>.
 Använd if-satser för att kontrollera ifall märket är:<br> 1. <i>Audi</i> - Är fallet sådan skriver du ut "Det är ett tyskt bilmärke".<br>
-2. <i>Fiat</i> - Är fallet sådan skriver du ut "Det är ett italienskt bilmärke".
+2. <i>Fiat</i> - Är fallet sådan skriver du ut "Det är ett italienskt bilmärke".<br>
 3. Annars skriver du ut "Känner inte till märket".
 
 
