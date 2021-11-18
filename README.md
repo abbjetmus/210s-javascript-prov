@@ -79,10 +79,10 @@ Du har en lista nedan med objekt som innehåller information om politiker.
 ```
 1. Tilldela listan till en variabel som heter **politiker**.
 
-2. Skapa en funktion som heter findPolitiker(), findPolitiker tar in en parameter på ett Id,
-använd Id't för att filtrera ut objektet med det Id't från politiker och returnera det.
+2. Skapa en funktion som heter *findPolitiker()*, findPolitiker tar in en parameter på ett **id**,
+använd id't för att filtrera ut objektet med det id't från politiker och returnera det.
 
-Använd inbyggda find funktionen för att filtrera: <https://www.w3schools.com/jsref/jsref_find.asp>
+Använd inbyggda find-funktionen för att filtrera: <https://www.w3schools.com/jsref/jsref_find.asp>
 
 3. Anropa findPolitiker med ett Id som finns i listan och tilldela det till en variabel **p**, använd **p** och skriv ut namnet på objektet på formatet: 
 **firstName - lastName**, för första objektet med id=1 skulle det se ut så här **Stefan - Löven**.
