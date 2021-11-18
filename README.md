@@ -32,7 +32,7 @@ Du får använda valfri editor för att koda men rekommenderar Visual Studio Cod
 
 ## Fråga 3 - Array/lista
 1. Skapa en array/lista med siffrorna 1 till 5 och tilldela den till en variabel som heter **tal**.
-2. Skriv ut till konsolen med hjälp av listan första talet i listan, dvs tal 1.
+2. Skriv ut till konsolen med hjälp av listan första talet i listan, dvs tal 1 med rätt index.
 
 ## Fråga 4 - If-satser
 Läs in ett namn på bilmärke med <i>prompt()</i> och lagra det i en variabel som heter <b>brand</b>.
