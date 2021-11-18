@@ -93,3 +93,7 @@ Använd inbyggda find-funktionen för att filtrera: <https://www.w3schools.com/j
 2. Skapa en knapp-tagg (button) bredvid input-taggen som när man klickar på den ska köra en funktion som heter *showImage()* som du definerar i script-taggen.
 3. Skapa under dessa en img-tagg med **id="bild"** som du ändrar *src*-attributet på från din showImage() funktion till det som kopierades in i input-taggen.
 4. Bilden ska sedan synas.
+
+Notera att knappen som ni klickar på inte finns med i gifen/klippet.
+### Resultat
+![](./uppgift3.gif)
