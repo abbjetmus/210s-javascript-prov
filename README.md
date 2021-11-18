@@ -31,7 +31,7 @@ Du får använda valfri editor för att koda men rekommenderar Visual Studio Cod
 * background-color: green;
 
 ## Fråga 3 - Array/lista
-1. Skapa en array/lista med siffrorna 1 till 5 och tilldela den till en variabel som heter *tal*.
+1. Skapa en array/lista med siffrorna 1 till 5 och tilldela den till en variabel som heter **tal**.
 2. Skriv ut till konsolen med hjälp av listan första talet i listan, dvs tal 1.
 
 ## Fråga 4 - If-satser
