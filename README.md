@@ -62,7 +62,7 @@ Du har en lista nedan med objekt som innehåller information om politiker.
 2. Loopa sedan igenom listan och skriv ut information om varje list-objekt på följande format:
 **firstName - lastName**, för första objektet skulle det se ut så här **Stefan - Löven**.
 
-## Fråga 7
+## Fråga 7 - Funktioner
 1. Skapa två funktioner **area** och **volume** för beräkning av area och volym. Area ska ta in två parametrar **x** och **y** och returnera arean av dem dvs multiplikationen. <br>Volume ska ta in 3 parametarar **x**, **y** och **z** och returnera volymen av dem dvs multiplikationen.
 2. Anropa sedan varje funktion med valfria värden på parametrarna och skriv ut resultatet till konsolen.
 
