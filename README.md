@@ -17,7 +17,7 @@ För att starta programmet dubbel-klickar du bara på html filen i filutforskare
 Du får använda valfri editor för att koda men rekommenderar Visual Studio Code.
 
 ## Fråga 1 - Variabler
-1. Skapa två variabler en som heter <b>height</b> som du tilldelar ett valfritt tal/nummer, och en som heter <b>width<b> som du också tilldelar ett tal till.
+1. Skapa två variabler en som heter <b>height</b> som du tilldelar ett valfritt tal/nummer, och en som heter <b>width</b> som du också tilldelar ett tal till.
 2. Skapa sedan en variabel <b>area</b> som tilldelas multiplikationen av variablerna height och width.<br>
 3. Skriv ut area variabeln till konsolen.
 
