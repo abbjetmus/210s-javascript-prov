@@ -88,7 +88,8 @@ Använd inbyggda find-funktionen för att filtrera: <https://www.w3schools.com/j
 **firstName - lastName**, för första objektet med id=1 skulle det se ut så här **Stefan - Löven**.
 
 
-## Fråga 9
+## Fråga 9 - HTML/JavaScript 
 1. Skapa en input-tagg med **id="adress"** som tar in en bild-adress dvs text.
 2. Skapa en knapp-tagg (button) bredvid input-taggen som när man klickar på den ska köra en funktion som heter *showImage()* som du definerar i script-taggen.
 3. Skapa under dessa en img-tagg med **id="bild"** som du ändrar *src*-attributet på från din showImage() funktion till det som kopierades in i input-taggen.
+4. Bilden ska sedan synas.
